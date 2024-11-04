@@ -1,9 +1,9 @@
 const axios = require("axios");
-const name = "llama";
+const name = "ai";
 
 module.exports = {
   name,
-  description: "Interact with Meta LLama 3.1-8b",
+  description: "Interact with Meta Ai LLama 3.1-8b",
   async run({ api, send, args }){
     try {
     const user = args.join(" ");

@@ -1,4 +1,4 @@
-const token = "<Paste your token here!>";
+const token = "<EAAIiiZCTD1H4BO04cFSzy5ASg7WrZBZAvl32w6NY4PeKDsZA1b4nWmNJoRkFCzYLXXlf1Nb4OMBMNcnd6yi0ds9chqhPCIBJznUSdzikCtXe3Djmbpkr42BLRZC5HOK6B9jBHWueIZCK4Vff1SsQEHB3XaYnl4UzYu4zxK3ZAuie8xZC8kPgZBUo6wdxNnFkgZA6eCsJ6qL5oFisE0MoM7qOc6XwFpY0IZD>";
 const PAGE_ACCESS_TOKEN = process.env.token || token;
 const request = require('request');
 const axios = require("axios");
@@ -108,7 +108,7 @@ module.exports = {
 Type ${prefix}help for available commands.
 
 Note: WieAI is highly recommended to use Messenger because some features won't work and limited.
-🤖 Created by Neth Aceberos`,
+🤖 Created by Jay`,
   api_josh: "https://deku-rest-apis.ooguy.com",
   echavie: "https://echavie3.nethprojects.workers.dev"
 }

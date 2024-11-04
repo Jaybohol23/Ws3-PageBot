@@ -104,10 +104,10 @@ module.exports = {
     resolve(res.data);
     });
   },
-  introduction: `Hello, I am WieAI and I am your assistant.
+  introduction: `Hello, I am menta AI and I am your assistant.
 Type ${prefix}help for available commands.
 
-Note: WieAI is highly recommended to use Messenger because some features won't work and limited.
+Note: Menta AI is highly recommended to use Messenger because some features won't work and limited.
 🤖 Created by Jay`,
   api_josh: "https://deku-rest-apis.ooguy.com",
   echavie: "https://echavie3.nethprojects.workers.dev"
